@@ -1,0 +1,4 @@
+1,2,3,4,5
+Which of the following is NOT a type of machine learning technology mentioned in the text?,What is the purpose of speech recognition technology?,Which industry benefits from computer vision technology?,What type of data is used by recommendation engines?,Which of the following is an application of machine learning in the financial sector?
+"{'a': 'Speech recognition', 'b': 'Computer vision', 'c': 'Data mining', 'd': 'Robotic process automation'}","{'a': 'To translate spoken words into written text', 'b': 'To improve the accessibility of texting', 'c': 'To conduct voice search', 'd': 'All of the above'}","{'a': 'Social media', 'b': 'Healthcare', 'c': 'Automotive', 'd': 'All of the above'}","{'a': 'Past consumption behavior', 'b': 'Demographic data', 'c': 'Psychographic data', 'd': 'Behavioral data'}","{'a': 'Fraud detection', 'b': 'Automated stock trading', 'c': 'Credit risk assessment', 'd': 'Both a and b'}"
+c,d,d,a,d
